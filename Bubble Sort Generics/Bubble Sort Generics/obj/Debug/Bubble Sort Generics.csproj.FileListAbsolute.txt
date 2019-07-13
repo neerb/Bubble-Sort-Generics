@@ -1,0 +1,18 @@
+C:\Users\Nathan\Desktop\Daily Bubble Sort\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.exe.config
+C:\Users\Nathan\Desktop\Daily Bubble Sort\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\Daily Bubble Sort\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.exe
+C:\Users\Nathan\Desktop\Daily Bubble Sort\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.pdb
+C:\Users\Nathan\Desktop\Daily Bubble Sort\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.exe
+C:\Users\Nathan\Desktop\Daily Bubble Sort\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.pdb
+C:\Users\Nathan\Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.exe.config
+C:\Users\Nathan\Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.exe
+C:\Users\Nathan\Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.pdb
+C:\Users\Nathan\Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.exe
+C:\Users\Nathan\Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.pdb
+C:\Users\Nathan\Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.csprojResolveAssemblyReference.cache
+A:\Second Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.exe.config
+A:\Second Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.exe
+A:\Second Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.pdb
+A:\Second Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.exe
+A:\Second Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\bin\Debug\Bubble Sort Generics.pdb
+A:\Second Desktop\Algorithms\Bubble Sort Generics\Bubble Sort Generics\obj\Debug\Bubble Sort Generics.csprojResolveAssemblyReference.cache
